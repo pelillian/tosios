@@ -3,7 +3,7 @@ import React, { CSSProperties } from 'react';
 import { GitHubIcon } from '../images/icons';
 import { Text } from './Text';
 
-const URL = 'https://github.com/halftheopposite/tosios';
+const URL = 'https://github.com/pelillian/tosios';
 
 const GITHUB: CSSProperties = {
     color: 'white',
