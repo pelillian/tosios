@@ -1,9 +1,9 @@
-version: "3.7"	
+version: "3.7"
 
-services:	
-  tosios:	
-    image: pelillian/tosios	
-    container_name: tosios	
-    restart: always	
-    ports:	
+services:
+  tosios:
+    image: pelillian/tosios
+    container_name: tosios
+    restart: always
+    ports:
       - 3001:3001
