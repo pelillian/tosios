@@ -1353,7 +1353,7 @@
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tiledversion": "1.2.5",
-  "tileheight": 16,
+  "tileheight": 128,
   "tilesets": [
     {
       "columns": 11,
@@ -1365,7 +1365,7 @@
       "name": "dungeon",
       "spacing": 0,
       "tilecount": 121,
-      "tileheight": 16,
+      "tileheight": 128,
       "tiles": [
         {
           "animation": [
@@ -1481,10 +1481,10 @@
           "type": "half"
         }
       ],
-      "tilewidth": 16
+      "tilewidth": 128
     }
   ],
-  "tilewidth": 16,
+  "tilewidth": 128,
   "type": "map",
   "version": 1.2,
   "width": 16
