@@ -79,7 +79,7 @@
         {
          "columns":11,
          "firstgid":1,
-         "image":"..\/..\/..\/client\/src\/images\/maps\/dungeon.png",
+         "image":"dungeon.png",
          "imageheight":1408,
          "imagewidth":1408,
          "margin":0,
