@@ -1,6 +1,6 @@
 {
-    "short_name": "TOSIOS",
-    "name": "The Open-Source IO Shooter",
+    "short_name": "Dorado",
+    "name": "Dorado Live",
     "icons": [
         {
             "src": "favicon.ico",
@@ -12,5 +12,5 @@
     "display": "fullscreen",
     "orientation": "landscape",
     "theme_color": "#FFFFFF",
-    "background_color": "#25131A"
+    "background_color": "#DDDDDD"
 }

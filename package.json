@@ -6,10 +6,6 @@
     "type": "git",
     "url": "https://github.com/pelillian/tosios"
   },
-  "author": {
-    "name": "Aymeric Chauvin",
-    "url": "https://hoglets.io"
-  },
   "workspaces": {
     "packages": [
       "packages/*"
