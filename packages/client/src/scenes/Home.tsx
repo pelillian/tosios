@@ -1,7 +1,6 @@
 import {
     Box,
     Button,
-    GitHub,
     IListItem,
     Inline,
     Input,
@@ -172,9 +171,7 @@ export default class Home extends Component<IProps, IState> {
                 </Helmet>
 
                 <View flex center column>
-                    <h1 style={{ color: 'white' }}>{Constants.APP_TITLE}</h1>
-                    <Space size="xxs" />
-                    <GitHub />
+                    <h1 style={{ color: '#512c75' }}>{Constants.APP_TITLE}</h1>
                 </View>
 
                 <Space size="m" />
