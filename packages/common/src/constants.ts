@@ -20,7 +20,7 @@ export const GAME_DURATION = 1000 * 90; // 90 seconds
 export const GAME_MODES = ['deathmatch', 'team deathmatch'];
 
 // Background
-export const BACKGROUND_COLOR = '#dddddd';
+export const BACKGROUND_COLOR = '#ffffff';
 
 // Tile (rectangle)
 export const TILE_SIZE = 32;
