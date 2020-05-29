@@ -7,9 +7,9 @@ export class TextSprite extends Text {
             new TextStyle({
                 fontSize,
                 fill: '#ffffff',
-                font-family: 'Josefin Sans',
+                fontFamily: 'Josefin Sans',
                 align: 'left',
-                font-weight: 700,
+                fontWeight: 700,
                 ...style,
             }),
         );
