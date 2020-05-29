@@ -9,7 +9,7 @@ export class TextSprite extends Text {
                 fill: '#ffffff',
                 fontFamily: 'Josefin Sans',
                 align: 'left',
-                fontWeight: 700,
+                fontWeight: 'bold',
                 ...style,
             }),
         );
