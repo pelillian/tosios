@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap');
 
 html, body {
   height: 100%;
-  font-family: 'Press Start 2P';
-  background-color: rgb(76, 42, 55);
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+  background-color: #ffffff;
 }
 
 body {
@@ -13,7 +14,8 @@ body {
 
 h1, p, input, select, button {
   margin: 0;
-  font-family: 'Press Start 2P';
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
 }
 
 a {
