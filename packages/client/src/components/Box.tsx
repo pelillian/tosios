@@ -1,10 +1,10 @@
 import React, { CSSProperties, ReactNode } from 'react';
 
 const BOX = {
-    background: '#FFFFFF',
-    boxShadow: '0 8px 16px rgba(9,30,66,.5)',
-    border: '1px solid rgba(9,30,66,.5)',
-    borderRadius: 8,
+    background: '#512c75',
+    color: 'white',
+    border: 'none',
+    borderRadius: 16,
     padding: 16,
     overflow: 'hidden',
 };

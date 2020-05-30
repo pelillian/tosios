@@ -5,16 +5,19 @@ import { Text } from './Text';
 import { isMobile } from 'react-device-detect';
 
 const ROOM = {
-    border: '2px solid rgba(9,30,66,.1)',
+    border: '2px solid white',
     borderRadius: 8,
+    backgroundColor: '#512c75',
     padding: 8,
     overflow: 'hidden',
     display: 'flex',
     alignItems: 'center',
+    willChange: 'transform',
 };
 
 const ROOM_HOVERED = {
-    backgroundColor: '#efefef33',
+    border: '2px solid white',
+    backgroundColor: '#512c75',
     filter: 'brightness(90%)',
     cursor: 'pointer',
 };

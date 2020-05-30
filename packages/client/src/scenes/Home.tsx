@@ -191,7 +191,6 @@ export default class Home extends Component<IProps, IState> {
                 }}
             >
                 <View flex>
-                    <img src={playerImage} alt="player" width={30} />
                     <Inline size="thin" />
                     <Text>Pick your name:</Text>
                 </View>
@@ -313,7 +312,7 @@ export default class Home extends Component<IProps, IState> {
                     center
                     style={{
                         borderRadius: 8,
-                        backgroundColor: '#efefef',
+                        backgroundColor: 'white',
                         color: 'darkgrey',
                         height: 128,
                     }}

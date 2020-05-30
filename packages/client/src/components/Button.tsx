@@ -1,17 +1,17 @@
 import React, { CSSProperties, ReactNode } from 'react';
 import { Inline } from './Inline';
 
-const BUTTON_COLOR = '#375a7f';
+const BUTTON_COLOR = '#512c75';
 
 const BUTTON: CSSProperties = {
     fontSize: 16,
     borderRadius: 8,
     padding: '8px 16px 8px 16px',
+    border: `2px solid white`,
     outline: 'none',
-    border: 'none',
     cursor: 'pointer',
-    backgroundColor: BUTTON_COLOR,
-    color: 'white',
+    backgroundColor: 'white',
+    color: BUTTON_COLOR,
     minHeight: 48,
     width: '100%',
     maxWidth: '100%',
@@ -25,9 +25,9 @@ const BUTTON_HOVERED: CSSProperties = {
 };
 
 const BUTTON_REVERSED: CSSProperties = {
-    backgroundColor: 'white',
-    color: BUTTON_COLOR,
-    border: `2px solid ${BUTTON_COLOR}`,
+    backgroundColor: BUTTON_COLOR,
+    color: 'white',
+    border: '2px solid white',
 };
 
 export function Button(props: {
